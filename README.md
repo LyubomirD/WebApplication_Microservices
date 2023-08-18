@@ -11,7 +11,7 @@ Each microservice contributes a unique and essential function to the overall Web
 - Gateway API: https://github.com/LyubomirD/WebApplication_GatewayApi  
   The entry point that efficiently routes requests to different microservices based on the URL paths.
 
-- Login / Sign up API:  
+- Login / Sign up API: https://github.com/LyubomirD/Microservice_Login_SignUp  
   Handles user authentication and account registration, ensuring secure access to the application.
 
 - User Account Information API:  
