@@ -2,7 +2,7 @@
 Welcome to the central hub for the WebApplication with a microservices architecture. This repository serves as a convenient access point to all the remote repositories housing the various microservices that constitute the WebApplication ecosystem. Here, you'll find links to each individual microservice repository for exploration and inspection.
 
 # Frontend Files:
-- Fronted: 
+- Fronted: https://github.com/LyubomirD/FrontendWebApplication  
 The frontend components of the WebApplication are designed to deliver a seamless user experience. This is where users interact with the application's features and functionalities.
 
 # Microservices:
