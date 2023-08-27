@@ -5,6 +5,10 @@ Welcome to the central hub for the WebApplication with a microservices architect
 - Fronted: https://github.com/LyubomirD/FrontendWebApplication  
 The frontend components of the WebApplication are designed to deliver a seamless user experience. This is where users interact with the application's features and functionalities.
 
+# Eureka Server:  
+- Eureka Server: https://github.com/LyubomirD/WebEurekaServer    
+Eureka main function is to find, manage and provide communication between microservices. 
+
 # Microservices:
 Each microservice contributes a unique and essential function to the overall WebApplication. Here are the microservices that power the application:
 
